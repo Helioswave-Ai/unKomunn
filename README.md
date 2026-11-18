@@ -1,4 +1,4 @@
-# unKomunn v1.0 — Sovereign Town Square & Identity Citadel
+# unKomunn v1.0 — 3rd space Sovereign Town Square & Identity Citadel
 
 **unKomunn** is a self-hosted, zero-telemetry communication platform and identity architecture built on Matrix (Synapse) and a customized Cinny web client. Engineered by **HeliosWave / ThinkSpace AI Works** ([helioswave.dev](https://helioswave.dev) | [helioswave.com.au](https://helioswave.com.au)), unKomunn transforms standard federated chat into a self-contained **Digital Third Place**—complete with cryptographic multi-handle identity vaults, anti-farming account credit gates, RAM-only ephemeral messaging, and a dynamic **45° Isometric Stronghold** interface that visually reacts to your server's security posture.
 
